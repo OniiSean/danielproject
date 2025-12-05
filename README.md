@@ -1,3 +1,41 @@
+# Daniel Ming – Portfolio Website
+
+This is a personal portfolio website I built for my friend **Daniel Ming** as a commission for my web development class project. The goal was to create a clean, modern, and responsive single-page site that Daniel can use to showcase his background, projects, and contact info.
+
+The site is built with **React** and **Vite**, and styled with custom **CSS** (no UI frameworks) to keep it lightweight and fully customizable.
+
+---
+
+## ✨ Features
+
+- **Hero section** with Daniel’s name, roles, and call-to-scroll
+- **About section** with a short bio and background summary  
+- **Projects section** with cards for a few highlighted projects  
+- **Contact section** with an easy way to get in touch  
+- **Responsive layout** – works on desktop and mobile  
+- Warm, modern color palette and subtle animations
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React (Vite)
+- **Styling:** Plain CSS (custom layout, animations, and theming)
+- **Package manager:** npm
+- **Deployment:** Vercel
+
+---
+
+## 🚀 Getting Started (Local Development)
+
+Clone the repo and install dependencies:
+
+```bash
+git clone https://github.com/<your-username>/<your-repo-name>.git
+cd <your-repo-name>
+npm install
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
